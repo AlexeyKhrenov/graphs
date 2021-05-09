@@ -1,0 +1,13 @@
+C:\Users\alexe\source\repos\Inflation\Inflation\bin\Debug\netcoreapp3.1\Inflation.exe
+C:\Users\alexe\source\repos\Inflation\Inflation\bin\Debug\netcoreapp3.1\Inflation.deps.json
+C:\Users\alexe\source\repos\Inflation\Inflation\bin\Debug\netcoreapp3.1\Inflation.runtimeconfig.json
+C:\Users\alexe\source\repos\Inflation\Inflation\bin\Debug\netcoreapp3.1\Inflation.runtimeconfig.dev.json
+C:\Users\alexe\source\repos\Inflation\Inflation\bin\Debug\netcoreapp3.1\Inflation.dll
+C:\Users\alexe\source\repos\Inflation\Inflation\bin\Debug\netcoreapp3.1\Inflation.pdb
+C:\Users\alexe\source\repos\Inflation\Inflation\obj\Debug\netcoreapp3.1\Inflation.csprojAssemblyReference.cache
+C:\Users\alexe\source\repos\Inflation\Inflation\obj\Debug\netcoreapp3.1\Inflation.AssemblyInfoInputs.cache
+C:\Users\alexe\source\repos\Inflation\Inflation\obj\Debug\netcoreapp3.1\Inflation.AssemblyInfo.cs
+C:\Users\alexe\source\repos\Inflation\Inflation\obj\Debug\netcoreapp3.1\Inflation.csproj.CoreCompileInputs.cache
+C:\Users\alexe\source\repos\Inflation\Inflation\obj\Debug\netcoreapp3.1\Inflation.dll
+C:\Users\alexe\source\repos\Inflation\Inflation\obj\Debug\netcoreapp3.1\Inflation.pdb
+C:\Users\alexe\source\repos\Inflation\Inflation\obj\Debug\netcoreapp3.1\Inflation.genruntimeconfig.cache
