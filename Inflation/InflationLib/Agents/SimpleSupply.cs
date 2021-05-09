@@ -7,7 +7,7 @@ namespace InflationLib.Agents
 {
     public class SimpleSupply : IEdge
     {
-        public SimpleSupply(int price, IAgent from, IAgent to)
+        public SimpleSupply(double price, IAgent from, IAgent to)
         {
             From = from;
             To = to;
@@ -20,6 +20,18 @@ namespace InflationLib.Agents
 
         public int Quantity { get; set; }
 
-        public int Price { get; set; }
+        public double Price { get; set; }
+
+        public void Reset()
+        {
+            Quantity = 0;
+            Price = 0;
+        }
+
+        public void Ship(int quantity, double price)
+        {
+            Quantity += quantity;
+            Price = price;
+        }
     }
 }
