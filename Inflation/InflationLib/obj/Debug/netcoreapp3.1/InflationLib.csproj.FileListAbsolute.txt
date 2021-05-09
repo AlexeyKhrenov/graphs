@@ -1,9 +1,0 @@
-C:\Users\alexe\source\repos\Inflation\InflationLib\bin\Debug\netcoreapp3.1\InflationLib.deps.json
-C:\Users\alexe\source\repos\Inflation\InflationLib\bin\Debug\netcoreapp3.1\InflationLib.dll
-C:\Users\alexe\source\repos\Inflation\InflationLib\bin\Debug\netcoreapp3.1\InflationLib.pdb
-C:\Users\alexe\source\repos\Inflation\InflationLib\obj\Debug\netcoreapp3.1\InflationLib.csprojAssemblyReference.cache
-C:\Users\alexe\source\repos\Inflation\InflationLib\obj\Debug\netcoreapp3.1\InflationLib.AssemblyInfoInputs.cache
-C:\Users\alexe\source\repos\Inflation\InflationLib\obj\Debug\netcoreapp3.1\InflationLib.AssemblyInfo.cs
-C:\Users\alexe\source\repos\Inflation\InflationLib\obj\Debug\netcoreapp3.1\InflationLib.csproj.CoreCompileInputs.cache
-C:\Users\alexe\source\repos\Inflation\InflationLib\obj\Debug\netcoreapp3.1\InflationLib.dll
-C:\Users\alexe\source\repos\Inflation\InflationLib\obj\Debug\netcoreapp3.1\InflationLib.pdb

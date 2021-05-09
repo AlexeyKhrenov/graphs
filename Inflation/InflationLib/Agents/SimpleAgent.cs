@@ -43,7 +43,7 @@ namespace InflationLib.Agents
 
             var edge = new SimpleSupply(Price, this, consumer);
 
-            consumers.Add(edge);
+            this.consumers.Add(edge);
             consumer.suppliers.Add(edge);
 
             return edge;
